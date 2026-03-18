@@ -1,0 +1,8 @@
+streamlit
+plotly
+pdfplumber
+sentence-transformers
+keybert
+torch
+scikit-learn
+requests
